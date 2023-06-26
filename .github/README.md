@@ -1,6 +1,6 @@
 [<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
-<h1> <img src="ᴜᴘʟᴏᴀᴅᴇᴅ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴘʜ : https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<h1> <img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/nothing022/count.svg" />
@@ -9,37 +9,13 @@
 [<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg">
 </p>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/hr.gif"/>](https://github.com/nothing022)
 
-<h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
-```python3
-class Anonymous():
-    def __init__(self):
-        self.name = ['Anonymous]
-        self.country = ['India']
-        self.language = ['हिंदी', 'English']
-    def programming_languages(self):
-        return [
-            'Python', 'SQL'
-        ]
-    def markup_languages(self):
-        return [
-            'HTML', 'CSS'
-        ]
-    def developer_tools(self):
-        return [
-            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
-            'MongoDB', 'MySQL', 'Azure'
-        ]
-    def operating_system(self):
-        return [
-            'Windows', 'Android', 'Linux'
-        ]
- ```
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
