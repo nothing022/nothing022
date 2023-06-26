@@ -14,7 +14,7 @@
 
 [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/hr.gif"/>](https://github.com/nothing022)
 
-<h1> <img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" width="55px">  </h1>
 
 
 [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
