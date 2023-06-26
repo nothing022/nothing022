@@ -17,19 +17,18 @@
 <h1> <img src="https://te.legra.ph/file/ec08a28e5134ff4df78be.jpg" width="55px">  </h1>
 
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
-<h1> <img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src="https://github.com/nothing022/nothing022/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=AnonymousX1025&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/AnonymousX1025)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnonymousX1025&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/AnonymousX1025)
-
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github-readme-stats.vercel.app/api?username=Nothing&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/nothing022)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nothing022&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/nothing022)
+[<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/telegram_icon.png" width="60px">](https://t.me/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/AnonymousX1025) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/maybe_its_rahul_)
+[<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/telegram_icon.png" width="60px">](https://t.me/Infinityuncounted01) [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/github_icon.png" width="60px">](https://github.com/nothing022) [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025)
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
 <h1> <img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
 
