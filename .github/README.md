@@ -24,7 +24,7 @@
 [<img src="https://github-readme-stats.vercel.app/api?username=Nothing&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/nothing022)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=nothing022&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/nothing022)
 [<img src="https://github.com/nothing022/nothing022/blob/master/resources/hr.gif"/>](https://github.com/nothing022)
 
-<h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+<h1> <img src="https://te.legra.ph/file/4fb468b76f23c1a0c8f1d.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/telegram_icon.png" width="60px">](https://t.me/Infinityuncounted01) [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/github_icon.png" width="60px">](https://github.com/nothing022) [<img src="https://raw.githubusercontent.com/nothing022/nothing022/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/KingTech1025)
 
